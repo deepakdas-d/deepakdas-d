@@ -7,7 +7,7 @@
 
 🌱 Currently learning advanced **Flutter animations**, **state management patterns**, and scalable backend architecture.  
 🤝 Open to collaborating on **Flutter** and **full-stack** projects with real-world impact.  
-📫 Reach me at: **deepakdas162004@gmail.com**  
+📫 Reach me at: **deepakdas.since2004@gmail.com**  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/deepak-das-d/)  
 ⚡ **Fun fact:** I love transforming complex logic into smooth user experiences – clean code meets beautiful UI!
 
