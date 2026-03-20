@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @deepakdas-d
 
-🔭 I’m a passionate **Flutter Developer** crafting beautiful, high-performance apps using **Dart**.  
+🔭 I’m a passionate **Full Stack Developer** crafting beautiful, high-performance apps using **Dart**.  
 💻 Skilled in **Python**, **Java**, **Django**, and **REST APIs** for building powerful backend systems.  
 🌐 Proficient in **HTML**, **CSS**, **JavaScript**, and **Firebase** for full-stack development.  
 🤖 I integrate **AI tools** to accelerate production, enhance efficiency, and deliver smarter solutions.
